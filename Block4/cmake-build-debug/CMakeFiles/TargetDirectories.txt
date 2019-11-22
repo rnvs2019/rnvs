@@ -1,0 +1,3 @@
+/home/c_hamann/Dokumente/Uni/FS3_WS19_20/RNVS/Praktisch/CLionProjects/Block4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/c_hamann/Dokumente/Uni/FS3_WS19_20/RNVS/Praktisch/CLionProjects/Block4/cmake-build-debug/CMakeFiles/Block4.dir
+/home/c_hamann/Dokumente/Uni/FS3_WS19_20/RNVS/Praktisch/CLionProjects/Block4/cmake-build-debug/CMakeFiles/edit_cache.dir
